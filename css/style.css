@@ -368,7 +368,7 @@ textarea.input {
 .menu-open .icon-menu span,
 .menu-open .icon-menu::after,
 .menu-open .icon-menu::before {
-  background-color: #fff
+  background-color: #c1ab81;
 }
 .menu-list {
   display: flex;
